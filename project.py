@@ -10,6 +10,8 @@ import matplotlib.dates as mdates
 import webbrowser
 
 
+#amer
+
 #switch used for the switch button
 def switchMFUE(from_currency_var, to_currency_var):
     # This will affect the actual StringVar objects passed as arguments
